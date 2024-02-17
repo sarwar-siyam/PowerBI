@@ -1,1 +1,1 @@
-
+Ich erhielt eine umfangreiche Datenmenge mit dem Ziel, ein Dashboard zu erstellen. Dabei habe ich DAX-Funktionen verwendet sowie bedingte Formatierung implementiert. Das Ziel besteht darin, alle relevanten Informationen so zu visualisieren, dass sie auf einen Blick ersichtlich sind oder durch die Anwendung von Filtern gezielt sichtbar gemacht werden können.
